@@ -1,11 +1,11 @@
-### Hello world! 👋
+### Hi, I'm Alexander 👋🏼 👦🏻
 
 ```
 <?php
 
-namespace Jalexcam\Jalexcam;
+namespace Jalexcam;
 
-class MyProfile
+class About extends Me
 {
   
 }
