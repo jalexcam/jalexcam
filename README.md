@@ -42,5 +42,7 @@ class About extends Me
 Some words about me:
 
 - 🔭 I’m currently working on my startup, stay tuned!!!
-- 🌱 currently stablehing a coding community!!!
+- 🌱 currently establishing a coding community!!!
 - 👯 I love to meet new people.
+- 💬 Ask me about any sort of motivation!!!
+
