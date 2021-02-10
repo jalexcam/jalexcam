@@ -45,4 +45,5 @@ Some words about me:
 - 🌱 currently establishing a coding community!!!
 - 👯 I love to meet new people.
 - 💬 Ask me about any sort of motivation!!!
+- 😄 Pronouns: he, him.
 - ⚡ Fun fact: Gimme music and I will work 20hrs day!!
