@@ -1,7 +1,5 @@
 ### Hi, I'm Alexander 👋🏼 👦🏻
 
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQH0Z_iaVJaW_oNWtpPweIzCthbOgd9V1c3HrTlrpMBWIsyqcwA%26s&sp=1612932954T1dacf652fa87a73a2cdcd1d2018401b850a808108e16fdf1d5108da42bfd68d3" style="width: 100vw" />
-
 ```
 <?php
 
