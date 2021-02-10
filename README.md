@@ -7,7 +7,30 @@ namespace Jalexcam;
 
 class About extends Me
 {
-  
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Autodidact',
+                'position' => 'Full Stack Developer'
+            ]        
+        ];
+    }
+    
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Lenevor::class,
+            Javascript::class,
+            Vuejs::class
+        ];
+    }
+    
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
 }
 
 ```
