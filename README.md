@@ -24,7 +24,7 @@ class About extends Me
             Php::class,
             Lenevor::class,
             Javascript::class,
-            Vuejs::class
+            CSS::class
         ];
     }
     
